@@ -19,7 +19,7 @@ symptom=[]
 for row in rows:
     d1 = re.sub(' +',' ',row.find_all("td")[0].p.span.get_text().replace('\n',' '))
     count = row.find_all("td")[1].p.span.get_text()
-    symptom = row.find_all("td")[2].p.span.get_text()
+    symptom = re.sub(' +',' ',row.find_all("td")[2].p.span.get_text().replace('\n',' '))
     if  d1.isspace():
         temp.append(symptom)
     else: 
