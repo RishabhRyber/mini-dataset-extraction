@@ -5,7 +5,7 @@ import csv
 
 #to initialize the csv file with header or column name
 with open('additional.csv',mode='w') as data:
-	fieldnames=["SymptomsCode","Definition"]
+	fieldnames=["DiseaseCode","Definition"]
 	writer=csv.DictWriter(data,fieldnames=fieldnames)
 	writer.writeheader()
 
@@ -45,10 +45,10 @@ for code in diseaseCodes:
 		print('Error occured')
 	finally:
 		with open('additional.csv',mode='a') as data:
-			fieldnames=["SymptomsCode","Definition"]
+			fieldnames=["DiseaseCode","Definition"]
 			writer=csv.DictWriter(data,fieldnames=fieldnames)
 			if(p.text[:17] == "NCIt Definition: "):				
-				writer.writerow({'SymptomsCode':code,'Definition':definition})
+				writer.writerow({'DiseaseCode':code,'Definition':definition})
 				print(definition)
 			else:
-				writer.writerow({'SymptomsCode':code})	
+				writer.writerow({'DiseaseCode':code})	
