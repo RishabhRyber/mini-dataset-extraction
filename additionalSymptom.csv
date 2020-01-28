@@ -1,0 +1,405 @@
+SymptomCode,Definition
+C0000727,
+C0000731,"Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+C0000737,Painful sensation in the abdominal region.
+C0002416,
+C0002962,Paroxysms of chest pain due to reduced oxygen to the heart.
+C0003123,Loss of appetite.
+C0003126,Inability to smell.
+C0003862,Pain in a joint.
+C0003962,"The accumulation of fluid in the peritoneal cavity, which may be serous, hemorrhagic, or the result of tumor metastasis to the peritoneum."
+C0004093,A sign or symptom of weakness and diminished or absent energy and strength.
+C0004134,"Lack of coordination of muscle movements resulting in the impairment or inability to perform voluntary activities. Causes include peripheral nerve disorders, posterior column injuries, cerebral and cerebellar disorders, basal ganglia disorders, and thalamic disorders."
+C0004604,Painful sensation in the back region.
+C0006157,"A fetal presentation in which the baby descends into the birth canal with hips, buttocks or its foot first during delivery."
+C0006318,
+C0006625,"A loss of body mass, fatigue, and weakness; it is often associated with chronic disease."
+C0007398,
+C0007859,Painful sensation in the neck area.
+C0008031,Pain in the chest.
+C0008033,Painful sensation in the pleura.
+C0008301,Interference with respiration by compression or obstruction of the larynx or trachea.
+C0008767,
+C0009024,"A form of involuntary muscular movement characterized by alternating contractions and relaxation in rapid succession. In the context of reflex testing, the ability to elicit clonus indicates injury to the nerve tracts above the point at which the reflex was initiated."
+C0009806,Irregular and infrequent or difficult evacuation of the bowels.
+C0010200,"A sudden, often repetitive, spasmodic contraction of the thoracic cavity, resulting in violent release of air from the lungs, and usually accompanied by a distinctive sound."
+C0010520,A bluish or purplish discoloration of the skin and mucous membranes resulting from a reduced concentration of oxygenated hemoglobin in the blood.
+C0011991,Watery bowel movements.
+C0012833,"A sensation of lightheadedness, unsteadiness, turning, spinning or rocking."
+C0013132,Saliva spilling out of the mouth.
+C0013144,The sensation of struggling to remain awake.
+C0013362,"Slow and slurred speech resulting from inability to coordinate the muscles that are used in speech. Causes include brain damage, Parkinson disease, and developmental causes."
+C0013404,An uncomfortable sensation of difficulty breathing. It may present as an acute or chronic sign of an underlying respiratory or heart disorder.
+C0013428,Pain or discomfort during urination.
+C0013491,"A flat discoloration of the skin or a mucous membrane, larger in area than a petechia, caused by the extravasation of blood."
+C0014394,"An elimination disorder characterized by urinary incontinence, whether involuntary or intentional, which is not due to a medical condition and which occurs at or beyond an age at which continence is expected (usually 5 years)."
+C0015672,Overall tiredness and lack of energy.
+C0015967,Elevation of body temperature above normal due to inflammatory or immune responses.
+C0016204,A state of excessive gas in the alimentary canal.
+C0016382,Reddening of the skin from a transient increase in blood flow.
+C0016512,"A sensation of discomfort emanating from the foot, its supporting structures, or its articulation with the ankle."
+C0016579,
+C0016927,"The sudden, coordinated, involuntary contraction of pharyngeal muscles in an attempt to prevent any matter from passing into the posterior pharynx; it is stimulated by touching the posterior palate, tongue, or pharynx, or by psychic stimuli."
+C0018681,"Pain in various parts of the head, not confined to the area of distribution of any nerve."
+C0018800,Abnormal enlargement of the heart.
+C0018834,Abdominal discomfort with retrosternal pain usually associated with gastroesophageal reflux..
+C0018862,"Osteophytes that most commonly develop on the distal interphalangeal joints, often in the setting of osteoarthritis."
+C0018932,The passage of fresh blood from the anus. The blood is usually seen in the stools. The most common cause is lower gastrointestinal tract hemorrhage.
+C0018965,Blood in the urine.
+C0018991,Paralysis of one side of the body.
+C0019079,Coughing up blood from the respiratory tract.
+C0019080,The flow of blood from a ruptured blood vessel.
+C0019209,Abnormal enlargement of the liver.
+C0019214,An abnormal enlargement of both the liver and spleen.
+C0019572,Male-pattern hair growth on a female.
+C0019825,"Harsh and raspy voice secondary to laryngeal infection, voice overuse, irritants inhalation, vocal cord paralysis, vocal cord polyps, and malignant neoplasms arising from or spreading to the larynx."
+C0020175,
+C0020303,
+C0020440,Excessive concentration of carbon dioxide in the blood.
+C0020458,Excessive perspiration.
+C0020461,Higher than normal levels of potassium in the circulating blood; associated with kidney failure or sometimes with the use of diuretic drugs.
+C0020578,"Abnormally prolonged, rapid, and deep breathing."
+C0020580,Impairment of tactile sensitivity manifesting as partial loss of sensitivity to sensory stimuli.
+C0020598,Lower than normal levels of calcium in the circulating blood.
+C0020621,Lower than normal levels of potassium in the circulating blood.
+C0020625,Lower than normal levels of sodium in the circulating blood.
+C0020639,
+C0020649,Blood pressure that is abnormally low.
+C0020672,Abnormally low body temperature.
+C0022107,"Feelings of annoyance, impatience, and anger."
+C0023222,A sensation of discomfort emanating from the femur or its supporting structures.
+C0023380,Decreased consciousness characterized by mental and physical inertness.
+C0024031,A sensation of discomfort emanating from the lower back.
+C0024103,"A mass in the mammary gland, either mobile or immobile. Once the mass has reached the size of a small garden pea, it can be detected by palpation. With mammography a larger number of early breast cancers are being detected since this techniques allows detection prior to the point at which the mass can be felt. Breast masses are not always malignant. Benign fibrocystic breast disease is not uncommon. A fine needle biopsy aspiration can distinguish a cystic mass from a solid one."
+C0026827,A condition of decreased tone of the skeletal muscles and diminished resistance to passive stretching.
+C0026961,
+C0027066,"A sudden, involuntary contraction of a muscle or group of muscles; these movements may develop as a symptom of a number of neurological diseases, including epilepsy, Parkinson's disease, Alzheimer's disease, or Creutzfeldt-Jacob disease."
+C0027497,Upper abdominal discomfort associated with an urge to vomit.
+C0027498,Expelling the contents of the stomach and the sensations associated with it. They are symptoms of an underlying disease or condition and not a specific illness.
+C0027769,An uneasy psychological state; the anxious feeling you have when you have the jitters.
+C0028081,Perspiration experienced nocturnally that is unrelated to environmental temperature.
+C0028084,"A disturbing dream that occurs during rapid eye movement sleep and results in feelings of strong terror, fear, distress, or anxiety."
+C0028643,A loss of the sensation of feeling in an area of the body.
+C0028961,Abnormally low urine output.
+C0029053,
+C0030193,"The sensation of discomfort, distress, or agony, resulting from the stimulation of specialized nerve endings."
+C0030232,"An unusual or extreme paleness, state of decreased skin or mucosal coloration."
+C0030252,An unpleasant sensation of irregular and/or forceful beating of the heart.
+C0030318,A sudden and overwhelming sense of fear characterized by the inability to function as normal.
+C0030552,A slight or incomplete paralysis.
+C0030554,"Abnormal cutaneous sensations of tingling, numbness, pressure, cold, and warmth that an individual experiences without the presence of a stimulus. It results from functional disturbances of sensory neurons. Causes include peripheral vascular disease, peripheral neuropathy, and nerve damage."
+C0032617,Excessive or frequent urination.
+C0032781,"Excessive mucous secretion in the back of the nasal cavity or throat, causing sore throat and/or coughing. It is usually due to allergic rhinitis or a cold."
+C0033774,An intense itching sensation.
+C0034079,"A benign or malignant small, oval or round growth in the lung. It can be due to infectious, inflammatory or neoplastic processes."
+C0034642,"Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+C0034880,"A disorder in which an individual has an abnormally low noise tolerance, and increased sensitivity to sounds."
+C0035508,"An abnormal sound similar to snoring heard on auscultation of the bronchial airways, suggesting a partial obstruction due to thick secretions, a muscular spasm, or a neoplasm."
+C0036396,
+C0036572,"Sudden, involuntary skeletal muscular contractions of cerebral or brain stem origin."
+C0037383,A symptom consisting of the involuntary expulsion of air from the nose.
+C0037384,A harsh inspiratory sound during sleep.
+C0037580,
+C0037763,"A sudden, violent, involuntary contraction of a muscle or group of muscles."
+C0038002,Abnormal enlargement of the spleen.
+C0038450,A symptom resulting from laryngeal obstruction. It is characterized by a high pitched breathing sound.
+C0038990,"A watery secretion by the sweat glands that is primarily composed of salt, urea and minerals."
+C0038999,Enlargement; expansion in size; sign of inflammation
+C0039070,A spontaneous loss of consciousness caused by insufficient blood supply to the brain.
+C0040264,Abnormal perception of sounds experienced by an individual in the absence of auditory stimulation.
+C0040822,"The shaking movement of the whole body or just a certain part of it, often caused by problems of the neurons responsible for muscle action."
+C0041657,"The shaking movement of the whole body or just a certain part of it, often caused by problems of the neurons responsible for muscle action."
+C0041667,
+C0041834,
+C0042571,"A feeling of movement, a sensation as if the external world were revolving around the patient (objective vertigo) or as if he himself were revolving in space (subjective vertigo). Vertigo is medically distinct from dizziness, lightheadedness, and unsteadiness."
+C0042963,Forceful ejection of the contents of the stomach through the mouth.
+C0043094,An increase in total body weight.
+C0043096,An increase in total body weight.
+C0043144,"A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+C0085593,Shivering or moderate tremors of the body often accompanied by a cold sensation.
+C0085602,"Chronic excessive intake of water; it may be from an organic cause, such as the dehydration of diabetes mellitus, diabetes insipidus, or a reaction to medication, or from a psychological cause. When untreated it can lead to water intoxication."
+C0085606,An acute and compelling urge to urinate.
+C0085619,
+C0085624,"A sensation of stinging or heat, not necessarily accompanied by redness or physical signs of irritation."
+C0085628,"A mental state of reduced level of consciousness, with decreased response to stimuli, including pain."
+C0085631,"A state of restlessness associated with unpleasant feelings of irritability and tension. Causes include pain, stress, fever, alcohol and nicotine withdrawal, cocaine and hallucinogenic drugs use, depression, bipolar disorders, and schizophrenia."
+C0085632,An emotional state of indifference characterized by a lack of interest or concern.
+C0085635,The perception of sudden or brief bursts (flashes) of light.
+C0085636,"Increased sensitivity of the eyes to light, which can result in the avoidance of light exposure."
+C0085639,"A sudden movement downward, usually resulting in injury."
+C0085702,
+C0086439,Diminished movement.
+C0149696,
+C0149746,
+C0149758,
+C0150041,
+C0150045,
+C0151315,"Limited mobility of the neck, usually accompanied by pain."
+C0151706,Vaginal bleeding unrelated to normal menstruation.
+C0151878,"An electrocardiographic finding in which the QT interval not corrected for heart rate is prolonged. Thresholds for different age, gender, and patient populations exist. (CDISC)"
+C0152032,Difficulty in initiating urination.
+C0156543,
+C0205254,A sedentary activity level.
+C0205400,
+C0220870,"A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+C0221150,Pain upon swallowing.
+C0221151,Forceful expulsion of the contents of the stomach through the mouth.
+C0221166,A slight paralysis or weakness of both legs.
+C0221198,"A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+C0221232,"A smooth, slightly elevated area on the body surface, which is redder or paler than the surrounding skin. It is the typical lesion of urticaria, the dermal evidence of allergy, and in sensitive persons may be provoked by mechanical irritation of the skin."
+C0221470,
+C0231187,"The inability of an organ or organ system to maintain homeostasis due to functional overload, often caused by the presence of disease intrinsic to the organ or organ system, or dysfunction in other organ systems."
+C0231218,"A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+C0231221,Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction.
+C0231230,
+C0231441,
+C0231528,Painful sensation originating from a muscle or group of muscles.
+C0231530,The occurrence of a single contraction or a series of contractions of a muscle.
+C0231690,
+C0231807,
+C0231835,Abnormal increase of rate of breathing.
+C0231872,
+C0231890,
+C0232118,
+C0232201,An electrocardiographic finding of an atrial rhythm which originates from the sinoatrial node that is considered normal for the population. (CDISC)
+C0232257,
+C0232258,
+C0232267,
+C0232292,
+C0232488,Paroxysms of discomfort characterized by abrupt onset and remission. This typically occurs when a hollow organ or supporting structure is obstructed.
+C0232498,
+C0232517,
+C0232602,Involuntary spasms of the stomach and esophagus resulting in vomiting or dry heaving.
+C0232605,
+C0232695,
+C0232726,Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
+C0232766,A tremor of the wrist that is observed when the wrist is extended.
+C0232854,
+C0232894,
+C0232943,
+C0232995,
+C0232997,
+C0233070,
+C0233071,
+C0233308,A rupture of the fetal membranes that is not concurrent with or immediately following a digital exam or other transvaginal intervention involving the amniotic membrane.
+C0233467,
+C0233481,
+C0233492,
+C0233565,Slow movement.
+C0233647,
+C0233762,Perception of sound in the absence of a corresponding stimulus.
+C0233763,"Optical perception of an object, person or event in the absence of a corresponding stimulus."
+C0233844,
+C0234133,
+C0234215,
+C0234233,Discomfort elicited through touch or pressure.
+C0234238,A dull persistent (usually moderately intense) pain.
+C0234253,
+C0234379,
+C0234450,
+C0234518,
+C0234544,
+C0234866,
+C0234979,
+C0235129,
+C0235198,Deterioration in the ability to concentrate.
+C0235231,
+C0235250,
+C0235396,A condition of increased muscle tone manifested by increased resistance of the muscle to passive stretching.
+C0235634,
+C0235710,
+C0236018,
+C0237154,Without a stable or permanent residence.
+C0237304,
+C0238705,
+C0238844,
+C0239110,
+C0239133,
+C0239134,A cough accompanied by expectorated secretions.
+C0239233,
+C0239301,
+C0239832,
+C0239981,Concentration of serum albumin below normal limits for the age related normal range.
+C0240100,Concentration of serum albumin below normal limits for the age related normal range.
+C0240233,
+C0240805,
+C0240813,
+C0240962,"Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+C0241157,A circumscribed and elevated skin lesion filled with purulent material.
+C0241158,Formation of new tissue formed in the healing of a wound.
+C0241235,
+C0241252,
+C0241526,
+C0241705,
+C0241938,
+C0242143,
+C0242429,"Any kind of inflammatory process of the tonsils, pharynx, or/and larynx characterized by pain in swallowing."
+C0242453,
+C0262581,
+C0264273,
+C0264576,Displacement of structures in the thoracic cavity in one direction due to increased pleural pressure on the contralateral side.
+C0270844,"Prolonged contraction of the muscles, as the result of an epileptic discharge."
+C0271202,A bilateral visual field defect on the same side of visual space of each eye (right or left).
+C0271276,
+C0277794,Extreme fatigue; inability to respond to stimuli.
+C0277797,
+C0277823,
+C0277845,
+C0277873,"Enlargement of the nostrils during breathing; although there are many possible causes, it can be a sign of respiratory distress in young infants."
+C0277899,
+C0277977,
+C0278014,
+C0278141,
+C0278146,An intense sensation of discomfort or distress that radiates from one location to another sharply.
+C0281825,
+C0311395,"Pain, cramping, and fatigue of the lower extremities upon ambulation due to ischemia."
+C0312422,
+C0332573,A flat lesion characterized by change in the skin color.
+C0332575,"Red discoloration of the skin caused by infectious agents, inflammation, drug hypersensitivity, or underlying disease."
+C0332601,"A constellation of signs and symptoms caused by an excess of glucocorticoids. Classic features include moon facies, buffalo hump, obesity, striae and adiposity."
+C0337672,
+C0338656,Diminished mental function.
+C0344232,Blurred vision is the loss of visual acuity (sharpness of vision) resulting in a loss of ability to see small details. (from MedlinePlus Medical Encyclopedia)
+C0344315,"An emotional state characterized by feelings of sadness, emptiness, and/or tearfulness."
+C0347938,
+C0376405,"Failure of a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment."
+C0392162,
+C0392674,
+C0392680,
+C0392699,"Distortion of a sense resulting in an abnormal and unpleasant sensation, usually described as burning, tingling, or numbness. Causes include lesions of the nervous system."
+C0392701,
+C0423571,
+C0423982,
+C0424000,Thoughts of taking one's own life.
+C0424068,
+C0424092,
+C0424109,Excessive crying.
+C0424230,Abnormally slow physical movement.
+C0424295,Increased motor activity that is not goal directed.
+C0424337,
+C0424530,
+C0424533,
+C0424749,
+C0424790,Severe chills accompanied by vigorous shaking.
+C0425251,
+C0425449,"An abnormal breathing pattern originating from lower brainstem neurons and characterized by labored breaths, gasping, and, often, myoclonus and grunting."
+C0425488,
+C0425491,
+C0425560,"Patient complaints (symptoms), physical/laboratory findings(signs) related to the cardiovascular system."
+C0427008,
+C0427055,A reduction in the strength of the facial muscles.
+C0427108,
+C0427629,
+C0428977,"An abnormally slow heart rate. Thresholds for different age, gender, and patient populations exist."
+C0429091,
+C0429562,
+C0436331,
+C0438696,
+C0438716,
+C0442739,
+C0443260,
+C0455204,Thinking about ending or making plans to end another's life.
+C0455769,"Feeling of excessive energy, which may be associated with increased activity."
+C0456091,A fetus exceeding 90% of expected weight for gestational age.
+C0457096,
+C0457097,
+C0474395,
+C0474505,
+C0476273,A pathological increase in the effort and frequency of breathing movements.
+C0476287,
+C0497406,A condition in which body mass index falls between 25 and 29.9.
+C0520886,An electrocardiographic finding of ST segment elevation above the baseline.
+C0520887,"An electrocardiographic finding of ST segment depression below the baseline, often described as up sloping, down sloping or horizontal."
+C0520888,An electrocardiographic finding of an inversion of the T wave from the expected axis.
+C0520966,
+C0521516,
+C0522224,Partial or complete loss of function of one or more muscles. It is usually caused by damage to the nervous system.
+C0522336,
+C0541798,
+C0541911,
+C0541992,
+C0542044,
+C0542073,
+C0549483,
+C0553668,Breathing that requires observed effort or an increased amount of energy.
+C0554980,
+C0556346,
+C0557075,
+C0557875,
+C0558089,
+C0558141,A person who was assigned to one gender at birth based on physical characteristics but who self-identifies psychologically and emotionally as the other.
+C0558143,Softening and whitening of the skin due to excessive moisture.
+C0558195,
+C0558261,
+C0558361,
+C0559546,"Any noxious and unintended response(s) to a medical product or procedure, for which a causal relationship with this product or procedure is at least a reasonable possibility i.e., the relationship cannot be ruled out."
+C0576456,"Occurs either when an infant shows no interest in feeding or when there is an inability to take in adequate nutrition. Poor feeding is a nonspecific symptom of many disorders, including neurological, genetic, structural, metabolic, and infectious diseases."
+C0577559,"A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+C0577979,
+C0578150,
+C0578859,
+C0581911,
+C0581912,
+C0600142,"A temporary feeling of intense body warmth, flushing, sometimes accompanied by sweating. A common, symptom of menopause; other conditions that can produce hot flushes include antidepressants and drugs blocking the effect of estrogens, carcinoid tumors and a sensitivity to sulfites or other food additives."
+C0677500,
+C0694547,
+C0700292,A finding indicating decreased oxygen levels in the blood.
+C0700590,Profuse sweating.
+C0702118,
+C0728899,Disturbances in psychophysiological functions and responses as a result of administration or ingestion of a psychoactive substance.
+C0740844,Disturbances in psychophysiological functions and responses as a result of administration or ingestion of a psychoactive substance.
+C0740880,
+C0741302,The condition of being irregular or not conforming to type.
+C0742985,The condition of being irregular or not conforming to type.
+C0743482,The condition of being irregular or not conforming to type.
+C0744492,The condition of being irregular or not conforming to type.
+C0744727,
+C0744740,
+C0746619,
+C0748706,
+C0751229,
+C0751466,"A fear of sounds, which can include fear of voices, including one's own voice, in addition to other sounds."
+C0751495,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0847488,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0848168,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0848277,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0848340,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0848621,"A transitory alteration in movement, sensation or autonomic nerve function due to abnormal electric activity in a localized area of the cerebral cortex, usually without change in awareness or alertness. Symptoms vary with different lesion locations and may include but not limited to the motor (e.g. rhythmic muscle contractions in one area of the body), somatosensory and sensory alterations manifested by abnormal numbness, paresthesias or other hallucinations, including several types of aura; autonomic and psychic symptoms, e.g. with changes in speech, thought, personality, mood, sensation of deja vu or hallucinations."
+C0850149,
+C0856054,
+C0857087,
+C0857199,
+C0857256,
+C0857516,
+C0858924,
+C0859032,
+C0860096,
+C0871754,
+C0872410,
+C0877040,
+C0878661,
+C0879626,"The term was used in various ways in the past, to describe unintended effects of medical intervention, usually negative (unfavourable), but also positive (favourable) ones. It is recommended that this term no longer be used and particularly should not be regarded as synonymous with adverse event or adverse reaction."
+C0917799,A sleep disorder characterized by excessive sleepiness.
+C0917801,A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep.
+C0948786,A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep.
+C1096646,A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep.
+C1135120,"Many people with chronic cancer-related pain experience intermittent flares of pain that can occur even though a person is taking analgesic medications on a fixed schedule for pain control. These severe flares of pain are called breakthrough pain because the pain ""breaks through"" the regular pain medication."
+C1167754,
+C1260880,A discharge of fluid from the nose.
+C1269955,"The local spread of tumor cells of a malignant neoplasm through infiltration or destruction of adjacent tissue; for epithelial neoplasms, invasion signifies infiltration beneath the epithelial basement membrane."
+C1273573,"The local spread of tumor cells of a malignant neoplasm through infiltration or destruction of adjacent tissue; for epithelial neoplasms, invasion signifies infiltration beneath the epithelial basement membrane."
+C1291077,Distention of the abdomen associated with a feeling of fullness.
+C1291692,
+C1299586,
+C1305739,
+C1313921,
+C1320716,
+C1321756,Failure of the smooth muscle fibers of the gastrointestinal tract to relax at any one point of junction of one part with another.
+C1384489,
+C1384606,Painful or difficult coitus.
+C1405524,Painful or difficult coitus.
+C1444773,
+C1456822,
+C1511606,A pathologic process that contains a single or multiple sac-like spaces.
+C1513183,A tumor arising at a location distant to the primary lesion.
+C1517205,
