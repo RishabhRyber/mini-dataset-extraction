@@ -78,6 +78,23 @@ def symptom_disease_relation_insert():
         cur.execute("INSERT INTO disease_symptom(disease_code,symptom_code) VALUES(%s , %s)",(i[1],i[0]))
     con.commit()
 
+def symptom_definition_insertion():
+
+    cur.execute("USE mini_data");
+
+    data = pd.read_csv("additionalSymptom.csv");
+    for i in zip(data["SymptomCode"],data["Definition"]):
+        cur.execute("Update symptoms set details="%s" where code="%s"",(i[1],i[0]))
+    con.commit()
+
+def disease_definition_insertion():
+
+    cur.execute("USE mini_data");
+
+    data = pd.read_csv("additional.csv");
+    for i in zip(data["DiseaseCode"],data["Definition"]):
+        cur.execute("Update symptoms set details="%s" where code="%s"",(i[1],i[0]))
+    con.commit()
 #just call the function that you want to execute
 
 # disease_insertion()
