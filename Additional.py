@@ -6,7 +6,7 @@ import csv
 con = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="jamesBond@007"
+    passwd="000012300"
 )
 cur = con.cursor()
 

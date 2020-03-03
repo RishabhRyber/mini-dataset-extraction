@@ -6,7 +6,7 @@ import mysql.connector
 con = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="jamesBond@007"
+    passwd="000012300"
 )
 cur = con.cursor()
 
@@ -84,19 +84,29 @@ def symptom_definition_insertion():
 
     data = pd.read_csv("additionalSymptom.csv");
     for i in zip(data["SymptomCode"],data["Definition"]):
-        cur.execute("Update symptoms set details="%s" where code="%s"",(i[1],i[0]))
-    con.commit()
-
+        try:
+            cur.execute("Update symptoms set details='{}' where code='{}'".format(i[1],i[0]))
+            con.commit()
+        except:
+            print("loda")
+            pass
 def disease_definition_insertion():
 
     cur.execute("USE mini_data");
 
     data = pd.read_csv("additional.csv");
     for i in zip(data["DiseaseCode"],data["Definition"]):
-        cur.execute("Update symptoms set details="%s" where code="%s"",(i[1],i[0]))
-    con.commit()
+        try:
+            cur.execute("Update diseases set details='{}' where code='{}'".format(i[1],i[0]))
+            con.commit()
+        except:
+            print("loda")
+            pass
 #just call the function that you want to execute
 
+disease_definition_insertion()
+
+symptom_definition_insertion()
 # disease_insertion()
 # symptoms_insertion()
 # symptom_disease_relation_insert()
