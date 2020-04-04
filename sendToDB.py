@@ -80,9 +80,9 @@ def symptom_disease_relation_insert():
 
 def symptom_definition_insertion():
 
-    cur.execute("USE mini_data");
+    cur.execute("USE mini_data")
 
-    data = pd.read_csv("additionalSymptom.csv");
+    data = pd.read_csv("additionalSymptom.csv")
     for i in zip(data["SymptomCode"],data["Definition"]):
         try:
             cur.execute("Update symptoms set details='{}' where code='{}'".format(i[1],i[0]))
@@ -92,9 +92,9 @@ def symptom_definition_insertion():
             pass
 def disease_definition_insertion():
 
-    cur.execute("USE mini_data");
+    cur.execute("USE mini_data")
 
-    data = pd.read_csv("additional.csv");
+    data = pd.read_csv("additional.csv")
     for i in zip(data["DiseaseCode"],data["Definition"]):
         try:
             cur.execute("Update diseases set details='{}' where code='{}'".format(i[1],i[0]))
